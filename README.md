@@ -31,3 +31,5 @@ Hover effects and card-style sections for better visual appeal.
 Technologies Used
 
 HTML5
+
+CSS3
